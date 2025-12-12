@@ -1,2 +1,4 @@
 https://dev.to/luxdevhq/generic-folder-structure-for-your-machine-learning-projects-4coe
 
+https://www.geeksforgeeks.org/pandas/python-pandas-get_dummies-method/
+
